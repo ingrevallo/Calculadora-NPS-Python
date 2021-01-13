@@ -1,4 +1,4 @@
-# Calculadora-NPS---Python
+# Calculadora NPS Python
 Esta calculadora NPS funciona da seguinte maneira:
 Você insere na calculadora a quantidade recebida de cada nota na escal de 0 a 10
 e a calculadora automaticamente vai mostrar:

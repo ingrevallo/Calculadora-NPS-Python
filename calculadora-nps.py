@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Nesta parte é solicitado ao usuário a quantidade recebida de cada nota na escal de 0 a 10
+# Nesta parte é solicitado ao usuário a quantidade recebida de cada nota na escala de 0 a 10
 nota_zero = int(input('Digita a quantidade recebida de notas Zero: '))
 nota_01 = int(input('Digita a quantidade recebida de notas "1" '))
 nota_02 = int(input('Digita a quantidade recebida de notas "2" '))

@@ -17,9 +17,6 @@ Exemplo:
 - NPS = 40% – 5% = 35 (o número é apresentado sem o percentual
 """
 
-#notas_nps = {0:"detrator", 1:"detrator", 2:"detrator", 3:"detrator", 4:"detrator", 5:"detrator",6:"detrator", 7:"neutro", 8:"neutro", 9:"promotor", 10:"promotor"}
-#print(notas_nps)
-
 nota_zero = int(input('Digita a quantidade recebida de notas Zero: '))
 nota_01 = int(input('Digita a quantidade recebida de notas "1" '))
 nota_02 = int(input('Digita a quantidade recebida de notas "2" '))

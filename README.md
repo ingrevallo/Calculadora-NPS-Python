@@ -13,4 +13,4 @@ Exemplo:
 - 40% dos clientes são promotores (deram notas 9 ou 10)
 - 5% dos clientes são detratores (deram notas entre 0 e 6)
 - 55% dos clientes são neutros (deram notas 7 ou 8)
-- NPS = 40% – 5% = 35 (o número é apresentado sem o percentual
+- NPS = 40% – 5% = 35 (o número é apresentado sem o percentual)

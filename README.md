@@ -5,6 +5,7 @@ Você insere na calculadora a quantidade recebida de cada nota na escal de 0 a 1
 - Clientes Neutros;
 - Clientes Promotor;
 - Valor NPS;
+
 O valor do NPS é calculado da seguinte maneira:
 NPS = Percentual de Clientes Promotores (notas 9 e 10) - Percentual de Detratores (notas de 0 a 6)
 (clientes neutros não entram no cálculo)

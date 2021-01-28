@@ -28,8 +28,8 @@ percentual_promotores = (promotores/total_de_notas)*100
 O valor do NPS é calculado da seguinte maneira:
 NPS = Percentual de Clientes Promotores (notas 9 e 10) - Percentual de Detratores (notas de 0 a 6)
 (clientes neutros não entram no cálculo)
-nps = percentual_promotores - percentual_detratores
 """
+nps = percentual_promotores - percentual_detratores
 
 # É retornado ao usuário o valor do NPS e a quantidade de Detratores, Neutros e Promotores.
 print(str("A quantidade total de Detratores é: ") + str(detratores) + str(" - ")+ str(round(percentual_detratores,2)) + str("% das notas recebidas"))

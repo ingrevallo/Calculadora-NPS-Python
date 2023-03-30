@@ -1,6 +1,6 @@
 # Calculadora NPS Python
 Esta calculadora NPS funciona da seguinte maneira:
-Você insere na calculadora a quantidade recebida de cada nota na escal de 0 a 10 e a calculadora automaticamente vai mostrar o valor do NPS;
+Você dá um "run" na "calculadora_nps.py", insere a quantidade recebida de cada nota na escala de 0 a 10 e a calculadora automaticamente vai mostrar o valor do NPS;
 
 O valor do NPS é calculado da seguinte maneira:
 NPS = Percentual de Clientes Promotores (notas 9 e 10) - Percentual de Detratores (notas de 0 a 6)

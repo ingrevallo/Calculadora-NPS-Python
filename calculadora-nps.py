@@ -16,4 +16,4 @@ nota_10 = int(input('Digita a quantidade recebida de notas "10" '))
 
 calcular_nps = nps_function.nps(nota_zero, nota_01, nota_02, nota_03, nota_04, nota_05, nota_06, nota_07, nota_08, nota_09, nota_10)
 
-print(str("O seu NPS é: ") + str(round(calcular_nps, 2)))
+print(str(f"O seu NPS é: {calcular_nps}"))

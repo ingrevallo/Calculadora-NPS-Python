@@ -6,5 +6,5 @@ def nps(nota_zero, nota_01, nota_02, nota_03, nota_04, nota_05, nota_06, nota_07
     percentual_detratores = (detratores/total_de_notas)*100
     percentual_neutros = (neutros/total_de_notas)*100
     percentual_promotores = (promotores/total_de_notas)*100
-    nps = percentual_promotores - percentual_detratores
+    nps = (round((percentual_promotores - percentual_detratores), 2))
     return nps
